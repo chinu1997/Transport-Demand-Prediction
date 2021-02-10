@@ -3,7 +3,7 @@ Traffic Jam: Predicting People's Movement into Nairobi
 <ul>
 <li>This challenge asks us to build a model that predicts the number of seats that Mobiticket can expect to sell for each ride, i.e. for a specific route on a specific date and time. There are 14 routes in this dataset. All of the routes end in Nairobi and originate in towns to the North-West of Nairobi towards Lake Victoria.</li>
 <li>The towns from which these routes originate are:
-<ol>
+<ul>
 
   <li>Awendo</li>
   <li>Homa Bay</li>
@@ -22,7 +22,7 @@ Traffic Jam: Predicting People's Movement into Nairobi
   <li>Rongo</li>
   <li>Sirare</li>
   <li>Sori</li>
-</ol>
+</ul>
 The routes from these 14 origins to the first stop in the outskirts of Nairobi takes approximately 8 to 9 hours from time of departure. From the first stop in the outskirts of Nairobi into the main bus terminal, where most passengers get off, in Central Business District, takes another 2 to 3 hours depending on traffic.</br>
 The three stops that all these routes make in Nairobi (in order) are:</li>
 <li>
